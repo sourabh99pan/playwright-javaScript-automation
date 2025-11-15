@@ -194,7 +194,7 @@
             - generic [ref=e288] [cursor=pointer]: Newest First
             - generic [ref=e289] [cursor=pointer]: Discount
         - 'link "Flipkart''s Choice Samsung 80 cm (32 inch) HD Ready LED Smart Tizen TV 2025 Edition with Voice Assistance Remote Control ... Add to Compare Samsung 80 cm (32 inch) HD Ready LED Smart Tizen TV 2025 Edition with Voice Assistance Remote Control ... 4.3 1,22,080 Ratings & 7,323 Reviews • HD Ready | LED • Model ID: UA32H4500FUXXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹13,490 ₹17,900 24% off Upto ₹5,400 Off on Exchange Bank Offer" [active] [ref=e294] [cursor=pointer]':
-          - /url: /samsung-80-cm-32-inch-hd-ready-led-smart-tizen-tv-2025-voice-assistance-remote-control-100-free-channels-hdr-10-support-purcolor-knox-security-digital-tuner-object-tracking-sound-lite-adaptive-q-symphony/p/itm46f9a52992ace?pid=TVSHBCHTKTHN5GSM&lid=LSTTVSHBCHTKTHN5GSMGAFQ6R&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&spotlightTagId=default_FkPickId_ckf%2Fczl&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHBCHTKTHN5GSM.SEARCH&ppt=sp&ppn=sp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+          - /url: /samsung-80-cm-32-inch-hd-ready-led-smart-tizen-tv-2025-voice-assistance-remote-control-100-free-channels-hdr-10-support-purcolor-knox-security-digital-tuner-object-tracking-sound-lite-adaptive-q-symphony/p/itm46f9a52992ace?pid=TVSHBCHTKTHN5GSM&lid=LSTTVSHBCHTKTHN5GSMGAFQ6R&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&spotlightTagId=default_FkPickId_ckf%2Fczl&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHBCHTKTHN5GSM.SEARCH&ppt=sp&ppn=sp&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e295]: Flipkart's Choice
           - generic [ref=e296]:
             - img "Samsung 80 cm (32 inch) HD Ready LED Smart Tizen TV 2025 Edition with Voice Assistance Remote Control ..." [ref=e300]
@@ -225,46 +225,46 @@
                 - generic [ref=e338]: ₹5,400
                 - generic [ref=e339]: Off on Exchange
               - generic [ref=e342]: Bank Offer
-        - 'link "Samsung Crystal 4K Infinity Vision 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... Add to Compare Samsung Crystal 4K Infinity Vision 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA55UE84AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹38,490 ₹57,000 32% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e347] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-infinity-vision-138-cm-55-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-voice-assistance-remote-control-purcolor-slim-look-knox-security-100-free-channels-universal-gestures/p/itm901a5da81674b?pid=TVSHBCDQY5VWNVGH&lid=LSTTVSHBCDQY5VWNVGHERRVNC&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_2&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHBCDQY5VWNVGH.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+        - 'link "Samsung 108 cm (43 inch) Full HD LED Smart Tizen TV 2025 Edition with Voice Assistance Remote Control ... Add to Compare Samsung 108 cm (43 inch) Full HD LED Smart Tizen TV 2025 Edition with Voice Assistance Remote Control ... 4.3 9,306 Ratings & 441 Reviews • Full HD | LED • Model ID: UA43F5550FUXXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹22,490 ₹27,500 18% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e347] [cursor=pointer]':
+          - /url: /samsung-108-cm-43-inch-full-hd-led-smart-tizen-tv-2025-voice-assistance-remote-control-100-free-channels-hdr-10-support-purcolor-knox-security-digital-tuner-object-tracking-sound-lite-adaptive-q-symphony/p/itm6a94c219f7fc7?pid=TVSHBCHTZ54NJJSH&lid=LSTTVSHBCHTZ54NJJSHMDTTMN&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_2&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHBCHTZ54NJJSH.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e348]:
-            - img "Samsung Crystal 4K Infinity Vision 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with..." [ref=e352]
+            - img "Samsung 108 cm (43 inch) Full HD LED Smart Tizen TV 2025 Edition with Voice Assistance Remote Control ..." [ref=e352]
             - generic [ref=e358]: Add to Compare
             - img [ref=e361]
           - generic [ref=e363]:
             - generic [ref=e364]:
-              - generic [ref=e365]: Samsung Crystal 4K Infinity Vision 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with...
+              - generic [ref=e365]: Samsung 108 cm (43 inch) Full HD LED Smart Tizen TV 2025 Edition with Voice Assistance Remote Control ...
               - generic [ref=e366]:
                 - generic [ref=e368]:
                   - text: "4.3"
                   - img [ref=e369]
-                - generic [ref=e371]: 66,355 Ratings & 4,480 Reviews
+                - generic [ref=e371]: 9,306 Ratings & 441 Reviews
               - list [ref=e373]:
-                - listitem [ref=e374]: • Ultra HD (4K) | LED
-                - listitem [ref=e375]: "• Model ID: UA55UE84AFULXL"
+                - listitem [ref=e374]: • Full HD | LED
+                - listitem [ref=e375]: "• Model ID: UA43F5550FUXXL"
                 - listitem [ref=e376]: "• Launch Year: 2025"
                 - listitem [ref=e377]: "• Total Sound Output: 20 W"
                 - listitem [ref=e378]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
             - generic [ref=e379]:
               - generic [ref=e381]:
-                - generic [ref=e382]: ₹38,490
-                - generic [ref=e383]: ₹57,000
-                - generic [ref=e384]: 32% off
+                - generic [ref=e382]: ₹22,490
+                - generic [ref=e383]: ₹27,500
+                - generic [ref=e384]: 18% off
               - img [ref=e386]
               - generic [ref=e389]: Hot Deal
               - generic [ref=e391]:
                 - generic [ref=e392]: Upto
                 - generic [ref=e393]: ₹5,400
                 - generic [ref=e394]: Off on Exchange
-        - 'link "Samsung Crystal 4K Infinity Vision 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... Add to Compare Samsung Crystal 4K Infinity Vision 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA43UE84AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹26,990 ₹41,300 34% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e399] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-infinity-vision-108-cm-43-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-voice-assistance-remote-control-purcolor-slim-look-knox-security-100-free-channels-universal-gestures/p/itm4c86e964ab2f9?pid=TVSHBCDQJGP8WKYT&lid=LSTTVSHBCDQJGP8WKYTLVBDFA&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHBCDQJGP8WKYT.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+        - 'link "Samsung Crystal 4K Infinity Vision 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... Add to Compare Samsung Crystal 4K Infinity Vision 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA55UE84AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹38,490 ₹57,000 32% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e399] [cursor=pointer]':
+          - /url: /samsung-crystal-4k-infinity-vision-138-cm-55-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-voice-assistance-remote-control-purcolor-slim-look-knox-security-100-free-channels-universal-gestures/p/itm901a5da81674b?pid=TVSHBCDQY5VWNVGH&lid=LSTTVSHBCDQY5VWNVGHERRVNC&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHBCDQY5VWNVGH.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e400]:
-            - img "Samsung Crystal 4K Infinity Vision 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with..." [ref=e404]
+            - img "Samsung Crystal 4K Infinity Vision 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with..." [ref=e404]
             - generic [ref=e410]: Add to Compare
             - img [ref=e413]
           - generic [ref=e415]:
             - generic [ref=e416]:
-              - generic [ref=e417]: Samsung Crystal 4K Infinity Vision 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with...
+              - generic [ref=e417]: Samsung Crystal 4K Infinity Vision 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with...
               - generic [ref=e418]:
                 - generic [ref=e420]:
                   - text: "4.3"
@@ -272,76 +272,76 @@
                 - generic [ref=e423]: 66,355 Ratings & 4,480 Reviews
               - list [ref=e425]:
                 - listitem [ref=e426]: • Ultra HD (4K) | LED
-                - listitem [ref=e427]: "• Model ID: UA43UE84AFULXL"
+                - listitem [ref=e427]: "• Model ID: UA55UE84AFULXL"
                 - listitem [ref=e428]: "• Launch Year: 2025"
                 - listitem [ref=e429]: "• Total Sound Output: 20 W"
                 - listitem [ref=e430]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
             - generic [ref=e431]:
               - generic [ref=e433]:
-                - generic [ref=e434]: ₹26,990
-                - generic [ref=e435]: ₹41,300
-                - generic [ref=e436]: 34% off
+                - generic [ref=e434]: ₹38,490
+                - generic [ref=e435]: ₹57,000
+                - generic [ref=e436]: 32% off
               - img [ref=e438]
               - generic [ref=e441]: Hot Deal
               - generic [ref=e443]:
                 - generic [ref=e444]: Upto
                 - generic [ref=e445]: ₹5,400
                 - generic [ref=e446]: Off on Exchange
-        - 'link "Samsung 108 cm (43 inch) Full HD LED Smart Tizen TV 2025 Edition with Voice Assistance Remote Control ... Add to Compare Samsung 108 cm (43 inch) Full HD LED Smart Tizen TV 2025 Edition with Voice Assistance Remote Control ... 4.3 9,306 Ratings & 441 Reviews • Full HD | LED • Model ID: UA43F5550FUXXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹22,490 ₹27,500 18% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e451] [cursor=pointer]':
-          - /url: /samsung-108-cm-43-inch-full-hd-led-smart-tizen-tv-2025-voice-assistance-remote-control-100-free-channels-hdr-10-support-purcolor-knox-security-digital-tuner-object-tracking-sound-lite-adaptive-q-symphony/p/itm6a94c219f7fc7?pid=TVSHBCHTZ54NJJSH&lid=LSTTVSHBCHTZ54NJJSHMDTTMN&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHBCHTZ54NJJSH.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+        - 'link "Samsung Crystal 4K Vista 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal... Add to Compare Samsung Crystal 4K Vista 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal... 4.3 22,952 Ratings & 1,498 Reviews • Ultra HD (4K) | LED • Model ID: UA43UE81AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹25,990 ₹39,500 34% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e451] [cursor=pointer]':
+          - /url: /samsung-crystal-4k-vista-108-cm-43-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-purcolor-slim-look-knox-security-100-free-channels-voice-ready-smartthings-app-universal-gestures/p/itma6d9638b98c87?pid=TVSHBCDQGHZKDQHN&lid=LSTTVSHBCDQGHZKDQHNGHFWC0&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHBCDQGHZKDQHN.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e452]:
-            - img "Samsung 108 cm (43 inch) Full HD LED Smart Tizen TV 2025 Edition with Voice Assistance Remote Control ..." [ref=e456]
+            - img "Samsung Crystal 4K Vista 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal..." [ref=e456]
             - generic [ref=e462]: Add to Compare
             - img [ref=e465]
           - generic [ref=e467]:
             - generic [ref=e468]:
-              - generic [ref=e469]: Samsung 108 cm (43 inch) Full HD LED Smart Tizen TV 2025 Edition with Voice Assistance Remote Control ...
+              - generic [ref=e469]: Samsung Crystal 4K Vista 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal...
               - generic [ref=e470]:
                 - generic [ref=e472]:
                   - text: "4.3"
                   - img [ref=e473]
-                - generic [ref=e475]: 9,306 Ratings & 441 Reviews
+                - generic [ref=e475]: 22,952 Ratings & 1,498 Reviews
               - list [ref=e477]:
-                - listitem [ref=e478]: • Full HD | LED
-                - listitem [ref=e479]: "• Model ID: UA43F5550FUXXL"
+                - listitem [ref=e478]: • Ultra HD (4K) | LED
+                - listitem [ref=e479]: "• Model ID: UA43UE81AFULXL"
                 - listitem [ref=e480]: "• Launch Year: 2025"
                 - listitem [ref=e481]: "• Total Sound Output: 20 W"
                 - listitem [ref=e482]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
             - generic [ref=e483]:
               - generic [ref=e485]:
-                - generic [ref=e486]: ₹22,490
-                - generic [ref=e487]: ₹27,500
-                - generic [ref=e488]: 18% off
+                - generic [ref=e486]: ₹25,990
+                - generic [ref=e487]: ₹39,500
+                - generic [ref=e488]: 34% off
               - img [ref=e490]
               - generic [ref=e493]: Hot Deal
               - generic [ref=e495]:
                 - generic [ref=e496]: Upto
                 - generic [ref=e497]: ₹5,400
                 - generic [ref=e498]: Off on Exchange
-        - 'link "Samsung Crystal 4K Vista 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal... Add to Compare Samsung Crystal 4K Vista 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal... 4.3 22,952 Ratings & 1,498 Reviews • Ultra HD (4K) | LED • Model ID: UA43UE81AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹25,990 ₹39,500 34% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e503] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-vista-108-cm-43-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-purcolor-slim-look-knox-security-100-free-channels-voice-ready-smartthings-app-universal-gestures/p/itma6d9638b98c87?pid=TVSHBCDQGHZKDQHN&lid=LSTTVSHBCDQGHZKDQHNGHFWC0&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_5&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHBCDQGHZKDQHN.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+        - 'link "Samsung Crystal 4K Infinity Vision 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... Add to Compare Samsung Crystal 4K Infinity Vision 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA43UE84AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹26,990 ₹41,300 34% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e503] [cursor=pointer]':
+          - /url: /samsung-crystal-4k-infinity-vision-108-cm-43-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-voice-assistance-remote-control-purcolor-slim-look-knox-security-100-free-channels-universal-gestures/p/itm4c86e964ab2f9?pid=TVSHBCDQJGP8WKYT&lid=LSTTVSHBCDQJGP8WKYTLVBDFA&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&spotlightTagId=default_BestsellerId_ckf%2Fczl&srno=s_1_5&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHBCDQJGP8WKYT.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e504]:
-            - img "Samsung Crystal 4K Vista 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal..." [ref=e508]
+            - img "Samsung Crystal 4K Infinity Vision 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with..." [ref=e508]
             - generic [ref=e514]: Add to Compare
             - img [ref=e517]
           - generic [ref=e519]:
             - generic [ref=e520]:
-              - generic [ref=e521]: Samsung Crystal 4K Vista 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal...
+              - generic [ref=e521]: Samsung Crystal 4K Infinity Vision 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with...
               - generic [ref=e522]:
                 - generic [ref=e524]:
                   - text: "4.3"
                   - img [ref=e525]
-                - generic [ref=e527]: 22,952 Ratings & 1,498 Reviews
+                - generic [ref=e527]: 66,355 Ratings & 4,480 Reviews
               - list [ref=e529]:
                 - listitem [ref=e530]: • Ultra HD (4K) | LED
-                - listitem [ref=e531]: "• Model ID: UA43UE81AFULXL"
+                - listitem [ref=e531]: "• Model ID: UA43UE84AFULXL"
                 - listitem [ref=e532]: "• Launch Year: 2025"
                 - listitem [ref=e533]: "• Total Sound Output: 20 W"
                 - listitem [ref=e534]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
             - generic [ref=e535]:
               - generic [ref=e537]:
-                - generic [ref=e538]: ₹25,990
-                - generic [ref=e539]: ₹39,500
+                - generic [ref=e538]: ₹26,990
+                - generic [ref=e539]: ₹41,300
                 - generic [ref=e540]: 34% off
               - img [ref=e542]
               - generic [ref=e545]: Hot Deal
@@ -350,7 +350,7 @@
                 - generic [ref=e549]: ₹5,400
                 - generic [ref=e550]: Off on Exchange
         - 'link "Samsung Crystal 4K Vista 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal... Add to Compare Samsung Crystal 4K Vista 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal... 4.3 22,952 Ratings & 1,498 Reviews • Ultra HD (4K) | LED • Model ID: UA50UE81AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹35,990 ₹50,600 28% off Hot Deal Only few left" [ref=e555] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-vista-125-cm-50-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-purcolor-slim-look-knox-security-100-free-channels-voice-ready-smartthings-app-universal-gestures/p/itma015fd2768c54?pid=TVSHBCDQQTSYUYCH&lid=LSTTVSHBCDQQTSYUYCHDBQTMV&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_6&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHBCDQQTSYUYCH.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+          - /url: /samsung-crystal-4k-vista-125-cm-50-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-purcolor-slim-look-knox-security-100-free-channels-voice-ready-smartthings-app-universal-gestures/p/itma015fd2768c54?pid=TVSHBCDQQTSYUYCH&lid=LSTTVSHBCDQQTSYUYCHDBQTMV&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_6&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHBCDQQTSYUYCH.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e556]:
             - img "Samsung Crystal 4K Vista 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal..." [ref=e560]
             - generic [ref=e566]: Add to Compare
@@ -378,7 +378,7 @@
               - generic [ref=e597]: Hot Deal
               - generic [ref=e600]: Only few left
         - 'link "Samsung 80 cm (32 Inch) HD Ready LED Smart Tizen TV with Bezel-Free Design | PurColor | Hyper Real Pic... Add to Compare Samsung 80 cm (32 Inch) HD Ready LED Smart Tizen TV with Bezel-Free Design | PurColor | Hyper Real Pic... 4.3 1,22,080 Ratings & 7,323 Reviews • HD Ready | LED • Model ID: UA32T4380AKXXL • Launch Year: 2022 • Total Sound Output: 20 W • 1 Year Comprehensive Warranty on Product and 1 Year Additional on Panel ₹13,989 ₹18,900 25% off Upto ₹5,400 Off on Exchange Bank Offer" [ref=e605] [cursor=pointer]':
-          - /url: /samsung-80-cm-32-inch-hd-ready-led-smart-tizen-tv-bezel-free-design-purcolor-hyper-real-picture-engine-triple-protection-smartthings-app-support-key-connect-share-hdd-connectshare-usb-2-0/p/itm394fbaae31420?pid=TVSGHY2UZA9YHWQN&lid=LSTTVSGHY2UZA9YHWQNCPAW6M&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_7&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSGHY2UZA9YHWQN.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+          - /url: /samsung-80-cm-32-inch-hd-ready-led-smart-tizen-tv-bezel-free-design-purcolor-hyper-real-picture-engine-triple-protection-smartthings-app-support-key-connect-share-hdd-connectshare-usb-2-0/p/itm394fbaae31420?pid=TVSGHY2UZA9YHWQN&lid=LSTTVSGHY2UZA9YHWQNCPAW6M&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_7&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSGHY2UZA9YHWQN.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e606]:
             - img "Samsung 80 cm (32 Inch) HD Ready LED Smart Tizen TV with Bezel-Free Design | PurColor | Hyper Real Pic..." [ref=e610]
             - generic [ref=e616]: Add to Compare
@@ -409,7 +409,7 @@
                 - generic [ref=e649]: Off on Exchange
               - generic [ref=e652]: Bank Offer
         - 'link "Samsung Crystal 4K Vista 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal... Add to Compare Samsung Crystal 4K Vista 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal... 4.3 22,952 Ratings & 1,498 Reviews • Ultra HD (4K) | LED • Model ID: UA55UE81AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹37,990 ₹55,200 31% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e657] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-vista-138-cm-55-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-purcolor-slim-look-knox-security-100-free-channels-voice-ready-smartthings-app-universal-gestures/p/itmdd112b6719c1a?pid=TVSHBCDQEX7UVFRZ&lid=LSTTVSHBCDQEX7UVFRZX2KPPM&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHBCDQEX7UVFRZ.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+          - /url: /samsung-crystal-4k-vista-138-cm-55-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-purcolor-slim-look-knox-security-100-free-channels-voice-ready-smartthings-app-universal-gestures/p/itmdd112b6719c1a?pid=TVSHBCDQEX7UVFRZ&lid=LSTTVSHBCDQEX7UVFRZX2KPPM&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHBCDQEX7UVFRZ.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e658]:
             - img "Samsung Crystal 4K Vista 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal..." [ref=e662]
             - generic [ref=e668]: Add to Compare
@@ -439,8 +439,8 @@
                 - generic [ref=e702]: Upto
                 - generic [ref=e703]: ₹5,400
                 - generic [ref=e704]: Off on Exchange
-        - 'link "Samsung Crystal 4K Vision Pro 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... Add to Compare Samsung Crystal 4K Vision Pro 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA43DUE76AKLXL • Launch Year: 2024 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹26,990 ₹43,200 37% off Hot Deal Only 4 left" [ref=e709] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-vision-pro-108-cm-43-inch-ultra-hd-4k-led-smart-tizen-tv-bright-upscaling-multiple-voice-assistance-remote-purcolor-hdr-10-auto-game-mode-q-symphony-knox-security/p/itme92fd82fd18b8?pid=TVSGYWKBKGZZ7FKY&lid=LSTTVSGYWKBKGZZ7FKYGN28O7&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_9&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSGYWKBKGZZ7FKY.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+        - 'link "Samsung Crystal 4K Vision Pro 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... Add to Compare Samsung Crystal 4K Vision Pro 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA43DUE76AKLXL • Launch Year: 2024 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹26,990 ₹43,200 37% off Hot Deal Only 3 left" [ref=e709] [cursor=pointer]':
+          - /url: /samsung-crystal-4k-vision-pro-108-cm-43-inch-ultra-hd-4k-led-smart-tizen-tv-bright-upscaling-multiple-voice-assistance-remote-purcolor-hdr-10-auto-game-mode-q-symphony-knox-security/p/itme92fd82fd18b8?pid=TVSGYWKBKGZZ7FKY&lid=LSTTVSGYWKBKGZZ7FKYGN28O7&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_9&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSGYWKBKGZZ7FKY.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e710]:
             - img "Samsung Crystal 4K Vision Pro 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4..." [ref=e714]
             - generic [ref=e720]: Add to Compare
@@ -466,9 +466,9 @@
                 - generic [ref=e746]: 37% off
               - img [ref=e748]
               - generic [ref=e751]: Hot Deal
-              - generic [ref=e754]: Only 4 left
+              - generic [ref=e754]: Only 3 left
         - 'link "Samsung 138 cm (55 inch) QLED Ultra HD (4K) Smart Tizen TV 2025 Edition with Vision AI |100% Color Vol... Add to Compare Samsung 138 cm (55 inch) QLED Ultra HD (4K) Smart Tizen TV 2025 Edition with Vision AI |100% Color Vol... 4.1 2,194 Ratings & 129 Reviews • Ultra HD (4K) | QLED • Model ID: QA55QEF6AULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹43,990 ₹75,500 41% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e759] [cursor=pointer]':
-          - /url: /samsung-138-cm-55-inch-qled-ultra-hd-4k-smart-tizen-tv-2025-vision-ai-100-color-volume-quantum-dot-real-sheet-hdr-pantone-validated-4k-upscaling-knox-security-100-free-channels/p/itm3580d1a4d06ec?pid=TVSHECAJ2HVHBMYH&lid=LSTTVSHECAJ2HVHBMYH3NQOEU&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_10&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHECAJ2HVHBMYH.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+          - /url: /samsung-138-cm-55-inch-qled-ultra-hd-4k-smart-tizen-tv-2025-vision-ai-100-color-volume-quantum-dot-real-sheet-hdr-pantone-validated-4k-upscaling-knox-security-100-free-channels/p/itm3580d1a4d06ec?pid=TVSHECAJ2HVHBMYH&lid=LSTTVSHECAJ2HVHBMYH3NQOEU&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_10&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHECAJ2HVHBMYH.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e760]:
             - img "Samsung 138 cm (55 inch) QLED Ultra HD (4K) Smart Tizen TV 2025 Edition with Vision AI |100% Color Vol..." [ref=e764]
             - generic [ref=e770]: Add to Compare
@@ -499,7 +499,7 @@
                 - generic [ref=e805]: ₹5,400
                 - generic [ref=e806]: Off on Exchange
         - 'link "Samsung Crystal 4K Infinity Vision 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... Add to Compare Samsung Crystal 4K Infinity Vision 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA50UE84AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹36,990 ₹52,400 29% off Hot Deal Only few left" [ref=e811] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-infinity-vision-125-cm-50-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-voice-assistance-remote-control-purcolor-slim-look-knox-security-100-free-channels-universal-gestures/p/itm176c50e515dc3?pid=TVSHBCDQYSGHZZYQ&lid=LSTTVSHBCDQYSGHZZYQHJY8N4&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_11&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHBCDQYSGHZZYQ.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+          - /url: /samsung-crystal-4k-infinity-vision-125-cm-50-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-voice-assistance-remote-control-purcolor-slim-look-knox-security-100-free-channels-universal-gestures/p/itm176c50e515dc3?pid=TVSHBCDQYSGHZZYQ&lid=LSTTVSHBCDQYSGHZZYQHJY8N4&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_11&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHBCDQYSGHZZYQ.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e812]:
             - img "Samsung Crystal 4K Infinity Vision 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with..." [ref=e816]
             - generic [ref=e822]: Add to Compare
@@ -527,7 +527,7 @@
               - generic [ref=e853]: Hot Deal
               - generic [ref=e856]: Only few left
         - 'link "Samsung Crystal 4K Vision Pro 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... Add to Compare Samsung Crystal 4K Vision Pro 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA55DUE76AKLXL • Launch Year: 2024 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹38,490 ₹61,600 37% off Hot Deal Only few left" [ref=e861] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-vision-pro-138-cm-55-inch-ultra-hd-4k-led-smart-tizen-tv-bright-upscaling-multiple-voice-assistance-remote-purcolor-hdr-10-auto-game-mode-q-symphony-knox-security/p/itme92fd82fd18b8?pid=TVSGYWKBJHNSRN9N&lid=LSTTVSGYWKBJHNSRN9NMQXR3A&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSGYWKBJHNSRN9N.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+          - /url: /samsung-crystal-4k-vision-pro-138-cm-55-inch-ultra-hd-4k-led-smart-tizen-tv-bright-upscaling-multiple-voice-assistance-remote-purcolor-hdr-10-auto-game-mode-q-symphony-knox-security/p/itme92fd82fd18b8?pid=TVSGYWKBJHNSRN9N&lid=LSTTVSGYWKBJHNSRN9NMQXR3A&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSGYWKBJHNSRN9N.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e862]:
             - img "Samsung Crystal 4K Vision Pro 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4..." [ref=e866]
             - generic [ref=e872]: Add to Compare
@@ -554,67 +554,67 @@
               - img [ref=e900]
               - generic [ref=e903]: Hot Deal
               - generic [ref=e906]: Only few left
-        - 'link "Samsung Crystal 4K Vista 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal... Add to Compare Samsung Crystal 4K Vista 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal... 4.3 22,952 Ratings & 1,498 Reviews • Ultra HD (4K) | LED • Model ID: UA65UE81AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹57,990 ₹85,600 32% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e911] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-vista-163-cm-65-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-purcolor-slim-look-knox-security-100-free-channels-voice-ready-smartthings-app-universal-gestures/p/itm47662940138a7?pid=TVSHBCDQWFSYXHWX&lid=LSTTVSHBCDQWFSYXHWXASXDOY&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_13&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHBCDQWFSYXHWX.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+        - 'link "Samsung Crystal Vision 4K iSmart 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with IOT Sensors fo... Add to Compare Samsung Crystal Vision 4K iSmart 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with IOT Sensors fo... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA55CUE70AKLXL • Launch Year: 2023 • Total Sound Output: 20 W • 2 Year Warranty (1Year Standard + 1 Year Extended Warranty on Panel ) ₹40,599 ₹67,200 39% off Hot Deal Only few left" [ref=e911] [cursor=pointer]':
+          - /url: /samsung-crystal-vision-4k-ismart-138-cm-55-inch-ultra-hd-4k-led-smart-tizen-tv-iot-sensors-light-camera-voice-assistant-hub-purcolor-smartthings-hdr/p/itm9a9bd9f205ac3?pid=TVSGRNGZXD8QWSJJ&lid=LSTTVSGRNGZXD8QWSJJGRPQHF&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_13&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSGRNGZXD8QWSJJ.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e912]:
-            - img "Samsung Crystal 4K Vista 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal..." [ref=e916]
+            - img "Samsung Crystal Vision 4K iSmart 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with IOT Sensors fo..." [ref=e916]
             - generic [ref=e922]: Add to Compare
             - img [ref=e925]
           - generic [ref=e927]:
             - generic [ref=e928]:
-              - generic [ref=e929]: Samsung Crystal 4K Vista 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal...
+              - generic [ref=e929]: Samsung Crystal Vision 4K iSmart 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with IOT Sensors fo...
               - generic [ref=e930]:
                 - generic [ref=e932]:
                   - text: "4.3"
                   - img [ref=e933]
-                - generic [ref=e935]: 22,952 Ratings & 1,498 Reviews
+                - generic [ref=e935]: 66,355 Ratings & 4,480 Reviews
               - list [ref=e937]:
                 - listitem [ref=e938]: • Ultra HD (4K) | LED
-                - listitem [ref=e939]: "• Model ID: UA65UE81AFULXL"
-                - listitem [ref=e940]: "• Launch Year: 2025"
+                - listitem [ref=e939]: "• Model ID: UA55CUE70AKLXL"
+                - listitem [ref=e940]: "• Launch Year: 2023"
                 - listitem [ref=e941]: "• Total Sound Output: 20 W"
-                - listitem [ref=e942]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
+                - listitem [ref=e942]: • 2 Year Warranty (1Year Standard + 1 Year Extended Warranty on Panel )
             - generic [ref=e943]:
               - generic [ref=e945]:
-                - generic [ref=e946]: ₹57,990
-                - generic [ref=e947]: ₹85,600
-                - generic [ref=e948]: 32% off
+                - generic [ref=e946]: ₹40,599
+                - generic [ref=e947]: ₹67,200
+                - generic [ref=e948]: 39% off
               - img [ref=e950]
               - generic [ref=e953]: Hot Deal
-              - generic [ref=e955]:
-                - generic [ref=e956]: Upto
-                - generic [ref=e957]: ₹5,400
-                - generic [ref=e958]: Off on Exchange
-        - 'link "Samsung Crystal Vision 4K iSmart 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with IOT Sensors fo... Add to Compare Samsung Crystal Vision 4K iSmart 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with IOT Sensors fo... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA55CUE70AKLXL • Launch Year: 2023 • Total Sound Output: 20 W • 2 Year Warranty (1Year Standard + 1 Year Extended Warranty on Panel ) ₹40,599 ₹67,200 39% off Hot Deal Only few left" [ref=e963] [cursor=pointer]':
-          - /url: /samsung-crystal-vision-4k-ismart-138-cm-55-inch-ultra-hd-4k-led-smart-tizen-tv-iot-sensors-light-camera-voice-assistant-hub-purcolor-smartthings-hdr/p/itm9a9bd9f205ac3?pid=TVSGRNGZXD8QWSJJ&lid=LSTTVSGRNGZXD8QWSJJGRPQHF&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_14&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSGRNGZXD8QWSJJ.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
-          - generic [ref=e964]:
-            - img "Samsung Crystal Vision 4K iSmart 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with IOT Sensors fo..." [ref=e968]
-            - generic [ref=e974]: Add to Compare
-            - img [ref=e977]
-          - generic [ref=e979]:
-            - generic [ref=e980]:
-              - generic [ref=e981]: Samsung Crystal Vision 4K iSmart 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with IOT Sensors fo...
-              - generic [ref=e982]:
-                - generic [ref=e984]:
+              - generic [ref=e956]: Only few left
+        - 'link "Samsung Crystal 4K Vision Pro 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... Add to Compare Samsung Crystal 4K Vision Pro 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA50DUE76AKLXL • Launch Year: 2024 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹37,990 ₹58,900 35% off Only 2 left Upto ₹5,400 Off on Exchange" [ref=e961] [cursor=pointer]':
+          - /url: /samsung-crystal-4k-vision-pro-125-cm-50-inch-ultra-hd-4k-led-smart-tizen-tv-bright-upscaling-multiple-voice-assistance-remote-purcolor-hdr-10-auto-game-mode-q-symphony-knox-security/p/itme92fd82fd18b8?pid=TVSGYWKBERHVSKKB&lid=LSTTVSGYWKBERHVSKKBO0HVNH&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_14&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSGYWKBERHVSKKB.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
+          - generic [ref=e962]:
+            - img "Samsung Crystal 4K Vision Pro 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4..." [ref=e966]
+            - generic [ref=e972]: Add to Compare
+            - img [ref=e975]
+          - generic [ref=e977]:
+            - generic [ref=e978]:
+              - generic [ref=e979]: Samsung Crystal 4K Vision Pro 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4...
+              - generic [ref=e980]:
+                - generic [ref=e982]:
                   - text: "4.3"
-                  - img [ref=e985]
-                - generic [ref=e987]: 66,355 Ratings & 4,480 Reviews
-              - list [ref=e989]:
-                - listitem [ref=e990]: • Ultra HD (4K) | LED
-                - listitem [ref=e991]: "• Model ID: UA55CUE70AKLXL"
-                - listitem [ref=e992]: "• Launch Year: 2023"
-                - listitem [ref=e993]: "• Total Sound Output: 20 W"
-                - listitem [ref=e994]: • 2 Year Warranty (1Year Standard + 1 Year Extended Warranty on Panel )
-            - generic [ref=e995]:
-              - generic [ref=e997]:
-                - generic [ref=e998]: ₹40,599
-                - generic [ref=e999]: ₹67,200
-                - generic [ref=e1000]: 39% off
-              - img [ref=e1002]
-              - generic [ref=e1005]: Hot Deal
-              - generic [ref=e1008]: Only few left
-        - 'link "Samsung Crystal 4K Vivid 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo... Add to Compare Samsung Crystal 4K Vivid 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo... 4.3 22,952 Ratings & 1,498 Reviews • Ultra HD (4K) | LED • Model ID: UA43DUE70BKLXL • Launch Year: 2024 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹25,990 ₹41,300 37% off Hot Deal Only 5 left" [ref=e1013] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-vivid-108-cm-43-inch-ultra-hd-4k-led-smart-tizen-tv-upscaling-purcolor-auto-game-mode-q-symphony-voice-ready-knox-security/p/itmbac55b98d739d?pid=TVSGYWKBHZW56DSB&lid=LSTTVSGYWKBHZW56DSB5EFHWV&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_15&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSGYWKBHZW56DSB.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+                  - img [ref=e983]
+                - generic [ref=e985]: 66,355 Ratings & 4,480 Reviews
+              - list [ref=e987]:
+                - listitem [ref=e988]: • Ultra HD (4K) | LED
+                - listitem [ref=e989]: "• Model ID: UA50DUE76AKLXL"
+                - listitem [ref=e990]: "• Launch Year: 2024"
+                - listitem [ref=e991]: "• Total Sound Output: 20 W"
+                - listitem [ref=e992]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
+            - generic [ref=e993]:
+              - generic [ref=e995]:
+                - generic [ref=e996]: ₹37,990
+                - generic [ref=e997]: ₹58,900
+                - generic [ref=e998]: 35% off
+              - img [ref=e1000]
+              - generic [ref=e1003]: Only 2 left
+              - generic [ref=e1005]:
+                - generic [ref=e1006]: Upto
+                - generic [ref=e1007]: ₹5,400
+                - generic [ref=e1008]: Off on Exchange
+        - 'link "Samsung Crystal 4K Vivid 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo... Add to Compare Samsung Crystal 4K Vivid 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo... 4.3 22,952 Ratings & 1,498 Reviews • Ultra HD (4K) | LED • Model ID: UA43DUE70BKLXL • Launch Year: 2024 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹25,990 ₹41,300 37% off Hot Deal Only few left" [ref=e1013] [cursor=pointer]':
+          - /url: /samsung-crystal-4k-vivid-108-cm-43-inch-ultra-hd-4k-led-smart-tizen-tv-upscaling-purcolor-auto-game-mode-q-symphony-voice-ready-knox-security/p/itmbac55b98d739d?pid=TVSGYWKBHZW56DSB&lid=LSTTVSGYWKBHZW56DSB5EFHWV&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_15&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSGYWKBHZW56DSB.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e1014]:
             - img "Samsung Crystal 4K Vivid 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo..." [ref=e1018]
             - generic [ref=e1024]: Add to Compare
@@ -640,16 +640,16 @@
                 - generic [ref=e1050]: 37% off
               - img [ref=e1052]
               - generic [ref=e1055]: Hot Deal
-              - generic [ref=e1058]: Only 5 left
-        - 'link "Samsung Crystal 4K Vision Pro 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... Add to Compare Samsung Crystal 4K Vision Pro 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA50DUE76AKLXL • Launch Year: 2024 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹37,990 ₹58,900 35% off Only 2 left Upto ₹5,400 Off on Exchange" [ref=e1063] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-vision-pro-125-cm-50-inch-ultra-hd-4k-led-smart-tizen-tv-bright-upscaling-multiple-voice-assistance-remote-purcolor-hdr-10-auto-game-mode-q-symphony-knox-security/p/itme92fd82fd18b8?pid=TVSGYWKBERHVSKKB&lid=LSTTVSGYWKBERHVSKKBO0HVNH&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_16&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSGYWKBERHVSKKB.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+              - generic [ref=e1058]: Only few left
+        - 'link "Samsung Crystal 4K Vision Pro 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... Add to Compare Samsung Crystal 4K Vision Pro 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA65DUE76AKLXL • Launch Year: 2024 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹58,990 ₹89,300 33% off Upto ₹5,400 Off on Exchange Bank Offer" [ref=e1063] [cursor=pointer]':
+          - /url: /samsung-crystal-4k-vision-pro-163-cm-65-inch-ultra-hd-4k-led-smart-tizen-tv-bright-upscaling-multiple-voice-assistance-remote-purcolor-hdr-10-auto-game-mode-q-symphony-knox-security/p/itme92fd82fd18b8?pid=TVSGYWKBKYZ6JFP3&lid=LSTTVSGYWKBKYZ6JFP3XXULV6&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_16&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSGYWKBKYZ6JFP3.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e1064]:
-            - img "Samsung Crystal 4K Vision Pro 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4..." [ref=e1068]
+            - img "Samsung Crystal 4K Vision Pro 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4..." [ref=e1068]
             - generic [ref=e1074]: Add to Compare
             - img [ref=e1077]
           - generic [ref=e1079]:
             - generic [ref=e1080]:
-              - generic [ref=e1081]: Samsung Crystal 4K Vision Pro 125 cm (50 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4...
+              - generic [ref=e1081]: Samsung Crystal 4K Vision Pro 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4...
               - generic [ref=e1082]:
                 - generic [ref=e1084]:
                   - text: "4.3"
@@ -657,113 +657,113 @@
                 - generic [ref=e1087]: 66,355 Ratings & 4,480 Reviews
               - list [ref=e1089]:
                 - listitem [ref=e1090]: • Ultra HD (4K) | LED
-                - listitem [ref=e1091]: "• Model ID: UA50DUE76AKLXL"
+                - listitem [ref=e1091]: "• Model ID: UA65DUE76AKLXL"
                 - listitem [ref=e1092]: "• Launch Year: 2024"
                 - listitem [ref=e1093]: "• Total Sound Output: 20 W"
                 - listitem [ref=e1094]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
             - generic [ref=e1095]:
               - generic [ref=e1097]:
-                - generic [ref=e1098]: ₹37,990
-                - generic [ref=e1099]: ₹58,900
-                - generic [ref=e1100]: 35% off
+                - generic [ref=e1098]: ₹58,990
+                - generic [ref=e1099]: ₹89,300
+                - generic [ref=e1100]: 33% off
               - img [ref=e1102]
-              - generic [ref=e1105]: Only 2 left
-              - generic [ref=e1107]:
-                - generic [ref=e1108]: Upto
-                - generic [ref=e1109]: ₹5,400
-                - generic [ref=e1110]: Off on Exchange
-        - 'link "Samsung Crystal 4K iSmart Series 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Crystal Proces... Add to Compare Samsung Crystal 4K iSmart Series 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Crystal Proces... 4.3 22,952 Ratings & 1,498 Reviews • Ultra HD (4K) | LED • Model ID: UA43CUE60AKLXL • Launch Year: 2023 • Total Sound Output: 20 W • 2 Year Warranty (1Year Standard + 1 Year Extended Warranty on Panel ) ₹25,799 ₹48,700 47% off Lowest price in the year Only 1 left" [ref=e1115] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-ismart-series-108-cm-43-inch-ultra-hd-4k-led-smart-tizen-tv-processor-purcolor-one-billion-color-hdr-10-support-key-triple-protection-connectshare-smartthings-app-knox-security/p/itm25c49b1175e08?pid=TVSGZF57QGYKHGNS&lid=LSTTVSGZF57QGYKHGNSWCWTOY&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&spotlightTagId=default_TrendingId_ckf%2Fczl&srno=s_1_17&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSGZF57QGYKHGNS.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+              - generic [ref=e1104]:
+                - generic [ref=e1105]: Upto
+                - generic [ref=e1106]: ₹5,400
+                - generic [ref=e1107]: Off on Exchange
+              - generic [ref=e1110]: Bank Offer
+        - 'link "Samsung Crystal 4K Infinity Vision 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... Add to Compare Samsung Crystal 4K Infinity Vision 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA65UE84AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹58,990 ₹85,600 31% off Lowest price since launch Upto ₹5,400 Off on Exchange" [ref=e1115] [cursor=pointer]':
+          - /url: /samsung-crystal-4k-infinity-vision-163-cm-65-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-voice-assistance-remote-control-purcolor-slim-look-knox-security-100-free-channels-universal-gestures/p/itm0c6dde4aaaab2?pid=TVSHBCDQ7UZYDGTU&lid=LSTTVSHBCDQ7UZYDGTU6WOAIZ&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_17&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHBCDQ7UZYDGTU.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e1116]:
-            - img "Samsung Crystal 4K iSmart Series 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Crystal Proces..." [ref=e1120]
+            - img "Samsung Crystal 4K Infinity Vision 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with..." [ref=e1120]
             - generic [ref=e1126]: Add to Compare
             - img [ref=e1129]
           - generic [ref=e1131]:
             - generic [ref=e1132]:
-              - generic [ref=e1133]: Samsung Crystal 4K iSmart Series 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Crystal Proces...
+              - generic [ref=e1133]: Samsung Crystal 4K Infinity Vision 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with...
               - generic [ref=e1134]:
                 - generic [ref=e1136]:
                   - text: "4.3"
                   - img [ref=e1137]
-                - generic [ref=e1139]: 22,952 Ratings & 1,498 Reviews
+                - generic [ref=e1139]: 66,355 Ratings & 4,480 Reviews
               - list [ref=e1141]:
                 - listitem [ref=e1142]: • Ultra HD (4K) | LED
-                - listitem [ref=e1143]: "• Model ID: UA43CUE60AKLXL"
-                - listitem [ref=e1144]: "• Launch Year: 2023"
+                - listitem [ref=e1143]: "• Model ID: UA65UE84AFULXL"
+                - listitem [ref=e1144]: "• Launch Year: 2025"
                 - listitem [ref=e1145]: "• Total Sound Output: 20 W"
-                - listitem [ref=e1146]: • 2 Year Warranty (1Year Standard + 1 Year Extended Warranty on Panel )
+                - listitem [ref=e1146]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
             - generic [ref=e1147]:
               - generic [ref=e1149]:
-                - generic [ref=e1150]: ₹25,799
-                - generic [ref=e1151]: ₹48,700
-                - generic [ref=e1152]: 47% off
+                - generic [ref=e1150]: ₹58,990
+                - generic [ref=e1151]: ₹85,600
+                - generic [ref=e1152]: 31% off
               - img [ref=e1154]
-              - generic [ref=e1157]: Lowest price in the year
-              - generic [ref=e1160]: Only 1 left
-        - 'link "Samsung Vision AI 108 cm (43 inch) QLED Ultra HD (4K) Smart One UI Tizen TV 2025 Edition with 100% Col... Add to Compare Samsung Vision AI 108 cm (43 inch) QLED Ultra HD (4K) Smart One UI Tizen TV 2025 Edition with 100% Col... 4.1 2,194 Ratings & 129 Reviews • Ultra HD (4K) | QLED • Model ID: QA43QEF1AULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹33,990 ₹50,600 32% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e1165] [cursor=pointer]':
-          - /url: /samsung-vision-ai-108-cm-43-inch-qled-ultra-hd-4k-smart-one-ui-tizen-tv-2025-100-color-volume-withquantum-dot-real-quantum-sheet-hdr-pantone-validated-4k-upscaling-knox-security-100-free-channels/p/itmf4250823212c8?pid=TVSHBCDQHNZCEFZT&lid=LSTTVSHBCDQHNZCEFZTVW7LVB&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_18&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHBCDQHNZCEFZT.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
-          - generic [ref=e1166]:
-            - img "Samsung Vision AI 108 cm (43 inch) QLED Ultra HD (4K) Smart One UI Tizen TV 2025 Edition with 100% Col..." [ref=e1170]
-            - generic [ref=e1176]: Add to Compare
-            - img [ref=e1179]
-          - generic [ref=e1181]:
-            - generic [ref=e1182]:
-              - generic [ref=e1183]: Samsung Vision AI 108 cm (43 inch) QLED Ultra HD (4K) Smart One UI Tizen TV 2025 Edition with 100% Col...
-              - generic [ref=e1184]:
-                - generic [ref=e1186]:
-                  - text: "4.1"
-                  - img [ref=e1187]
-                - generic [ref=e1189]: 2,194 Ratings & 129 Reviews
-              - list [ref=e1191]:
-                - listitem [ref=e1192]: • Ultra HD (4K) | QLED
-                - listitem [ref=e1193]: "• Model ID: QA43QEF1AULXL"
-                - listitem [ref=e1194]: "• Launch Year: 2025"
-                - listitem [ref=e1195]: "• Total Sound Output: 20 W"
-                - listitem [ref=e1196]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
-            - generic [ref=e1197]:
-              - generic [ref=e1199]:
-                - generic [ref=e1200]: ₹33,990
-                - generic [ref=e1201]: ₹50,600
-                - generic [ref=e1202]: 32% off
-              - img [ref=e1204]
-              - generic [ref=e1207]: Hot Deal
-              - generic [ref=e1209]:
-                - generic [ref=e1210]: Upto
-                - generic [ref=e1211]: ₹5,400
-                - generic [ref=e1212]: Off on Exchange
-        - 'link "Samsung Crystal 4K Vivid 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo... Add to Compare Samsung Crystal 4K Vivid 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo... 4.3 22,952 Ratings & 1,498 Reviews • Ultra HD (4K) | LED • Model ID: UA55DUE70BKLXL • Launch Year: 2024 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹37,990 ₹59,800 36% off Upto ₹5,400 Off on Exchange Bank Offer" [ref=e1217] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-vivid-138-cm-55-inch-ultra-hd-4k-led-smart-tizen-tv-upscaling-purcolor-voice-ready-knox-security/p/itmbac55b98d739d?pid=TVSGYWKBQFHPGMNH&lid=LSTTVSGYWKBQFHPGMNH23EXGG&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_19&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSGYWKBQFHPGMNH.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
-          - generic [ref=e1218]:
-            - img "Samsung Crystal 4K Vivid 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo..." [ref=e1222]
-            - generic [ref=e1228]: Add to Compare
-            - img [ref=e1231]
-          - generic [ref=e1233]:
-            - generic [ref=e1234]:
-              - generic [ref=e1235]: Samsung Crystal 4K Vivid 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo...
-              - generic [ref=e1236]:
-                - generic [ref=e1238]:
+              - generic [ref=e1157]: Lowest price since launch
+              - generic [ref=e1159]:
+                - generic [ref=e1160]: Upto
+                - generic [ref=e1161]: ₹5,400
+                - generic [ref=e1162]: Off on Exchange
+        - 'link "Samsung Crystal 4K Vivid 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo... Add to Compare Samsung Crystal 4K Vivid 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo... 4.3 22,952 Ratings & 1,498 Reviews • Ultra HD (4K) | LED • Model ID: UA55DUE70BKLXL • Launch Year: 2024 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹37,990 ₹59,800 36% off Upto ₹5,400 Off on Exchange Bank Offer" [ref=e1167] [cursor=pointer]':
+          - /url: /samsung-crystal-4k-vivid-138-cm-55-inch-ultra-hd-4k-led-smart-tizen-tv-upscaling-purcolor-voice-ready-knox-security/p/itmbac55b98d739d?pid=TVSGYWKBQFHPGMNH&lid=LSTTVSGYWKBQFHPGMNH23EXGG&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_18&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSGYWKBQFHPGMNH.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
+          - generic [ref=e1168]:
+            - img "Samsung Crystal 4K Vivid 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo..." [ref=e1172]
+            - generic [ref=e1178]: Add to Compare
+            - img [ref=e1181]
+          - generic [ref=e1183]:
+            - generic [ref=e1184]:
+              - generic [ref=e1185]: Samsung Crystal 4K Vivid 138 cm (55 inch) Ultra HD (4K) LED Smart Tizen TV with 4K Upscaling | Purcolo...
+              - generic [ref=e1186]:
+                - generic [ref=e1188]:
                   - text: "4.3"
-                  - img [ref=e1239]
-                - generic [ref=e1241]: 22,952 Ratings & 1,498 Reviews
-              - list [ref=e1243]:
-                - listitem [ref=e1244]: • Ultra HD (4K) | LED
-                - listitem [ref=e1245]: "• Model ID: UA55DUE70BKLXL"
-                - listitem [ref=e1246]: "• Launch Year: 2024"
-                - listitem [ref=e1247]: "• Total Sound Output: 20 W"
-                - listitem [ref=e1248]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
-            - generic [ref=e1249]:
-              - generic [ref=e1251]:
-                - generic [ref=e1252]: ₹37,990
-                - generic [ref=e1253]: ₹59,800
-                - generic [ref=e1254]: 36% off
-              - img [ref=e1256]
-              - generic [ref=e1258]:
-                - generic [ref=e1259]: Upto
-                - generic [ref=e1260]: ₹5,400
-                - generic [ref=e1261]: Off on Exchange
-              - generic [ref=e1264]: Bank Offer
+                  - img [ref=e1189]
+                - generic [ref=e1191]: 22,952 Ratings & 1,498 Reviews
+              - list [ref=e1193]:
+                - listitem [ref=e1194]: • Ultra HD (4K) | LED
+                - listitem [ref=e1195]: "• Model ID: UA55DUE70BKLXL"
+                - listitem [ref=e1196]: "• Launch Year: 2024"
+                - listitem [ref=e1197]: "• Total Sound Output: 20 W"
+                - listitem [ref=e1198]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
+            - generic [ref=e1199]:
+              - generic [ref=e1201]:
+                - generic [ref=e1202]: ₹37,990
+                - generic [ref=e1203]: ₹59,800
+                - generic [ref=e1204]: 36% off
+              - img [ref=e1206]
+              - generic [ref=e1208]:
+                - generic [ref=e1209]: Upto
+                - generic [ref=e1210]: ₹5,400
+                - generic [ref=e1211]: Off on Exchange
+              - generic [ref=e1214]: Bank Offer
+        - 'link "Samsung Crystal 4K iSmart Series 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Crystal Proces... Add to Compare Samsung Crystal 4K iSmart Series 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Crystal Proces... 4.3 22,952 Ratings & 1,498 Reviews • Ultra HD (4K) | LED • Model ID: UA43CUE60AKLXL • Launch Year: 2023 • Total Sound Output: 20 W • 2 Year Warranty (1Year Standard + 1 Year Extended Warranty on Panel ) ₹25,799 ₹48,700 47% off Lowest price in the year Only 1 left" [ref=e1219] [cursor=pointer]':
+          - /url: /samsung-crystal-4k-ismart-series-108-cm-43-inch-ultra-hd-4k-led-smart-tizen-tv-processor-purcolor-one-billion-color-hdr-10-support-key-triple-protection-connectshare-smartthings-app-knox-security/p/itm25c49b1175e08?pid=TVSGZF57QGYKHGNS&lid=LSTTVSGZF57QGYKHGNSWCWTOY&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_19&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSGZF57QGYKHGNS.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
+          - generic [ref=e1220]:
+            - img "Samsung Crystal 4K iSmart Series 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Crystal Proces..." [ref=e1224]
+            - generic [ref=e1230]: Add to Compare
+            - img [ref=e1233]
+          - generic [ref=e1235]:
+            - generic [ref=e1236]:
+              - generic [ref=e1237]: Samsung Crystal 4K iSmart Series 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Crystal Proces...
+              - generic [ref=e1238]:
+                - generic [ref=e1240]:
+                  - text: "4.3"
+                  - img [ref=e1241]
+                - generic [ref=e1243]: 22,952 Ratings & 1,498 Reviews
+              - list [ref=e1245]:
+                - listitem [ref=e1246]: • Ultra HD (4K) | LED
+                - listitem [ref=e1247]: "• Model ID: UA43CUE60AKLXL"
+                - listitem [ref=e1248]: "• Launch Year: 2023"
+                - listitem [ref=e1249]: "• Total Sound Output: 20 W"
+                - listitem [ref=e1250]: • 2 Year Warranty (1Year Standard + 1 Year Extended Warranty on Panel )
+            - generic [ref=e1251]:
+              - generic [ref=e1253]:
+                - generic [ref=e1254]: ₹25,799
+                - generic [ref=e1255]: ₹48,700
+                - generic [ref=e1256]: 47% off
+              - img [ref=e1258]
+              - generic [ref=e1261]: Lowest price in the year
+              - generic [ref=e1264]: Only 1 left
         - 'link "Samsung 108 cm (43 inch) Full HD LED Smart Tizen TV with HDR | PurColor | Dolby Digital Plus | Hyper R... Add to Compare Samsung 108 cm (43 inch) Full HD LED Smart Tizen TV with HDR | PurColor | Dolby Digital Plus | Hyper R... 4.3 9,306 Ratings & 441 Reviews • Full HD | LED • Model ID: UA43T5450AKXXL • Launch Year: 2023 • Total Sound Output: 20 W • 1 Year Comprehensive Warranty on Product and 1 Year Additional Warranty on Panel ₹22,490 ₹37,200 39% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e1269] [cursor=pointer]':
-          - /url: /samsung-108-cm-43-inch-full-hd-led-smart-tizen-tv-hdr-purcolor-dolby-digital-plus-hyper-real-picture-engine-triple-protection-smartthings-app-support-key-connect-share-hdd-connectshare-usb-2-0/p/itme5ad32e73c573?pid=TVSGRS7GYVN3UZNZ&lid=LSTTVSGRS7GYVN3UZNZULGKSS&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_20&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSGRS7GYVN3UZNZ.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+          - /url: /samsung-108-cm-43-inch-full-hd-led-smart-tizen-tv-hdr-purcolor-dolby-digital-plus-hyper-real-picture-engine-triple-protection-smartthings-app-support-key-connect-share-hdd-connectshare-usb-2-0/p/itme5ad32e73c573?pid=TVSGRS7GYVN3UZNZ&lid=LSTTVSGRS7GYVN3UZNZULGKSS&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_20&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSGRS7GYVN3UZNZ.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e1270]:
             - img "Samsung 108 cm (43 inch) Full HD LED Smart Tizen TV with HDR | PurColor | Dolby Digital Plus | Hyper R..." [ref=e1274]
             - generic [ref=e1280]: Add to Compare
@@ -793,46 +793,46 @@
                 - generic [ref=e1314]: Upto
                 - generic [ref=e1315]: ₹5,400
                 - generic [ref=e1316]: Off on Exchange
-        - 'link "Samsung Crystal 4K Vision Pro 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... Add to Compare Samsung Crystal 4K Vision Pro 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA65DUE76AKLXL • Launch Year: 2024 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹58,990 ₹89,300 33% off Upto ₹5,400 Off on Exchange Bank Offer" [ref=e1321] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-vision-pro-163-cm-65-inch-ultra-hd-4k-led-smart-tizen-tv-bright-upscaling-multiple-voice-assistance-remote-purcolor-hdr-10-auto-game-mode-q-symphony-knox-security/p/itme92fd82fd18b8?pid=TVSGYWKBKYZ6JFP3&lid=LSTTVSGYWKBKYZ6JFP3XXULV6&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_21&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSGYWKBKYZ6JFP3.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+        - 'link "Samsung Crystal 4K Vista 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal... Add to Compare Samsung Crystal 4K Vista 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal... 4.3 22,952 Ratings & 1,498 Reviews • Ultra HD (4K) | LED • Model ID: UA65UE81AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹57,990 ₹85,600 32% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e1321] [cursor=pointer]':
+          - /url: /samsung-crystal-4k-vista-163-cm-65-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-purcolor-slim-look-knox-security-100-free-channels-voice-ready-smartthings-app-universal-gestures/p/itm47662940138a7?pid=TVSHBCDQWFSYXHWX&lid=LSTTVSHBCDQWFSYXHWXASXDOY&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_21&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHBCDQWFSYXHWX.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e1322]:
-            - img "Samsung Crystal 4K Vision Pro 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4..." [ref=e1326]
+            - img "Samsung Crystal 4K Vista 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal..." [ref=e1326]
             - generic [ref=e1332]: Add to Compare
             - img [ref=e1335]
           - generic [ref=e1337]:
             - generic [ref=e1338]:
-              - generic [ref=e1339]: Samsung Crystal 4K Vision Pro 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV with Bright Vision | 4...
+              - generic [ref=e1339]: Samsung Crystal 4K Vista 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with 4K Upscal...
               - generic [ref=e1340]:
                 - generic [ref=e1342]:
                   - text: "4.3"
                   - img [ref=e1343]
-                - generic [ref=e1345]: 66,355 Ratings & 4,480 Reviews
+                - generic [ref=e1345]: 22,952 Ratings & 1,498 Reviews
               - list [ref=e1347]:
                 - listitem [ref=e1348]: • Ultra HD (4K) | LED
-                - listitem [ref=e1349]: "• Model ID: UA65DUE76AKLXL"
-                - listitem [ref=e1350]: "• Launch Year: 2024"
+                - listitem [ref=e1349]: "• Model ID: UA65UE81AFULXL"
+                - listitem [ref=e1350]: "• Launch Year: 2025"
                 - listitem [ref=e1351]: "• Total Sound Output: 20 W"
                 - listitem [ref=e1352]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
             - generic [ref=e1353]:
               - generic [ref=e1355]:
-                - generic [ref=e1356]: ₹58,990
-                - generic [ref=e1357]: ₹89,300
-                - generic [ref=e1358]: 33% off
+                - generic [ref=e1356]: ₹57,990
+                - generic [ref=e1357]: ₹85,600
+                - generic [ref=e1358]: 32% off
               - img [ref=e1360]
-              - generic [ref=e1362]:
-                - generic [ref=e1363]: Upto
-                - generic [ref=e1364]: ₹5,400
-                - generic [ref=e1365]: Off on Exchange
-              - generic [ref=e1368]: Bank Offer
-        - 'link "Samsung 108 cm (43 inch) QLED Ultra HD (4K) Smart Tizen TV 2025 Edition with Vision AI |100% Color Vol... Add to Compare Samsung 108 cm (43 inch) QLED Ultra HD (4K) Smart Tizen TV 2025 Edition with Vision AI |100% Color Vol... 4.1 2,194 Ratings & 129 Reviews • Ultra HD (4K) | QLED • Model ID: QA43QEF6AULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹33,990 ₹50,600 32% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e1373] [cursor=pointer]':
-          - /url: /samsung-108-cm-43-inch-qled-ultra-hd-4k-smart-tizen-tv-2025-vision-ai-100-color-volume-quantum-dot-real-sheet-hdr-pantone-validated-4k-upscaling-knox-security-100-free-channels/p/itm2a1a13358a704?pid=TVSHECAJXJZDH33Z&lid=LSTTVSHECAJXJZDH33ZODL5MD&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_22&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHECAJXJZDH33Z.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+              - generic [ref=e1363]: Hot Deal
+              - generic [ref=e1365]:
+                - generic [ref=e1366]: Upto
+                - generic [ref=e1367]: ₹5,400
+                - generic [ref=e1368]: Off on Exchange
+        - 'link "Samsung Vision AI 108 cm (43 inch) QLED Ultra HD (4K) Smart One UI Tizen TV 2025 Edition with 100% Col... Add to Compare Samsung Vision AI 108 cm (43 inch) QLED Ultra HD (4K) Smart One UI Tizen TV 2025 Edition with 100% Col... 4.1 2,194 Ratings & 129 Reviews • Ultra HD (4K) | QLED • Model ID: QA43QEF1AULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹33,990 ₹50,600 32% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e1373] [cursor=pointer]':
+          - /url: /samsung-vision-ai-108-cm-43-inch-qled-ultra-hd-4k-smart-one-ui-tizen-tv-2025-100-color-volume-withquantum-dot-real-quantum-sheet-hdr-pantone-validated-4k-upscaling-knox-security-100-free-channels/p/itmf4250823212c8?pid=TVSHBCDQHNZCEFZT&lid=LSTTVSHBCDQHNZCEFZTVW7LVB&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_22&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHBCDQHNZCEFZT.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e1374]:
-            - img "Samsung 108 cm (43 inch) QLED Ultra HD (4K) Smart Tizen TV 2025 Edition with Vision AI |100% Color Vol..." [ref=e1378]
+            - img "Samsung Vision AI 108 cm (43 inch) QLED Ultra HD (4K) Smart One UI Tizen TV 2025 Edition with 100% Col..." [ref=e1378]
             - generic [ref=e1384]: Add to Compare
             - img [ref=e1387]
           - generic [ref=e1389]:
             - generic [ref=e1390]:
-              - generic [ref=e1391]: Samsung 108 cm (43 inch) QLED Ultra HD (4K) Smart Tizen TV 2025 Edition with Vision AI |100% Color Vol...
+              - generic [ref=e1391]: Samsung Vision AI 108 cm (43 inch) QLED Ultra HD (4K) Smart One UI Tizen TV 2025 Edition with 100% Col...
               - generic [ref=e1392]:
                 - generic [ref=e1394]:
                   - text: "4.1"
@@ -840,7 +840,7 @@
                 - generic [ref=e1397]: 2,194 Ratings & 129 Reviews
               - list [ref=e1399]:
                 - listitem [ref=e1400]: • Ultra HD (4K) | QLED
-                - listitem [ref=e1401]: "• Model ID: QA43QEF6AULXL"
+                - listitem [ref=e1401]: "• Model ID: QA43QEF1AULXL"
                 - listitem [ref=e1402]: "• Launch Year: 2025"
                 - listitem [ref=e1403]: "• Total Sound Output: 20 W"
                 - listitem [ref=e1404]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
@@ -855,39 +855,39 @@
                 - generic [ref=e1418]: Upto
                 - generic [ref=e1419]: ₹5,400
                 - generic [ref=e1420]: Off on Exchange
-        - 'link "Samsung Crystal 4K Infinity Vision 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... Add to Compare Samsung Crystal 4K Infinity Vision 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA65UE84AFULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹58,990 ₹85,600 31% off Lowest price since launch Upto ₹5,400 Off on Exchange" [ref=e1425] [cursor=pointer]':
-          - /url: /samsung-crystal-4k-infinity-vision-163-cm-65-inch-ultra-hd-4k-led-smart-tizen-tv-2025-upscaling-hdr-10-voice-assistance-remote-control-purcolor-slim-look-knox-security-100-free-channels-universal-gestures/p/itm0c6dde4aaaab2?pid=TVSHBCDQ7UZYDGTU&lid=LSTTVSHBCDQ7UZYDGTU6WOAIZ&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_23&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSHBCDQ7UZYDGTU.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+        - 'link "Samsung 108 cm (43 inch) QLED Ultra HD (4K) Smart Tizen TV 2025 Edition with Vision AI |100% Color Vol... Add to Compare Samsung 108 cm (43 inch) QLED Ultra HD (4K) Smart Tizen TV 2025 Edition with Vision AI |100% Color Vol... 4.1 2,194 Ratings & 129 Reviews • Ultra HD (4K) | QLED • Model ID: QA43QEF6AULXL • Launch Year: 2025 • Total Sound Output: 20 W • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel) ₹33,990 ₹50,600 32% off Hot Deal Upto ₹5,400 Off on Exchange" [ref=e1425] [cursor=pointer]':
+          - /url: /samsung-108-cm-43-inch-qled-ultra-hd-4k-smart-tizen-tv-2025-vision-ai-100-color-volume-quantum-dot-real-sheet-hdr-pantone-validated-4k-upscaling-knox-security-100-free-channels/p/itm2a1a13358a704?pid=TVSHECAJXJZDH33Z&lid=LSTTVSHECAJXJZDH33ZODL5MD&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_23&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSHECAJXJZDH33Z.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e1426]:
-            - img "Samsung Crystal 4K Infinity Vision 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with..." [ref=e1430]
+            - img "Samsung 108 cm (43 inch) QLED Ultra HD (4K) Smart Tizen TV 2025 Edition with Vision AI |100% Color Vol..." [ref=e1430]
             - generic [ref=e1436]: Add to Compare
             - img [ref=e1439]
           - generic [ref=e1441]:
             - generic [ref=e1442]:
-              - generic [ref=e1443]: Samsung Crystal 4K Infinity Vision 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV 2025 Edition with...
+              - generic [ref=e1443]: Samsung 108 cm (43 inch) QLED Ultra HD (4K) Smart Tizen TV 2025 Edition with Vision AI |100% Color Vol...
               - generic [ref=e1444]:
                 - generic [ref=e1446]:
-                  - text: "4.3"
+                  - text: "4.1"
                   - img [ref=e1447]
-                - generic [ref=e1449]: 66,355 Ratings & 4,480 Reviews
+                - generic [ref=e1449]: 2,194 Ratings & 129 Reviews
               - list [ref=e1451]:
-                - listitem [ref=e1452]: • Ultra HD (4K) | LED
-                - listitem [ref=e1453]: "• Model ID: UA65UE84AFULXL"
+                - listitem [ref=e1452]: • Ultra HD (4K) | QLED
+                - listitem [ref=e1453]: "• Model ID: QA43QEF6AULXL"
                 - listitem [ref=e1454]: "• Launch Year: 2025"
                 - listitem [ref=e1455]: "• Total Sound Output: 20 W"
                 - listitem [ref=e1456]: • 2 Year Warranty (1 Year Standard Warranty + 1 Year additional warranty on Panel)
             - generic [ref=e1457]:
               - generic [ref=e1459]:
-                - generic [ref=e1460]: ₹58,990
-                - generic [ref=e1461]: ₹85,600
-                - generic [ref=e1462]: 31% off
+                - generic [ref=e1460]: ₹33,990
+                - generic [ref=e1461]: ₹50,600
+                - generic [ref=e1462]: 32% off
               - img [ref=e1464]
-              - generic [ref=e1467]: Lowest price since launch
+              - generic [ref=e1467]: Hot Deal
               - generic [ref=e1469]:
                 - generic [ref=e1470]: Upto
                 - generic [ref=e1471]: ₹5,400
                 - generic [ref=e1472]: Off on Exchange
         - 'link "Samsung Crystal Vision 4K iSmart 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV with IOT Sensors fo... Add to Compare Samsung Crystal Vision 4K iSmart 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV with IOT Sensors fo... 4.3 66,355 Ratings & 4,480 Reviews • Ultra HD (4K) | LED • Model ID: UA65CUE70AKLXL • Launch Year: 2023 • Total Sound Output: 20 W • 1 Year Comprehensive Warranty on Product and 1 Year Additional Warranty on Panel ₹64,499 ₹1,01,300 36% off Hot Deal Only 1 left" [ref=e1477] [cursor=pointer]':
-          - /url: /samsung-crystal-vision-4k-ismart-163-cm-65-inch-ultra-hd-4k-led-smart-tizen-tv-iot-sensors-light-camera-voice-assistant-hub-purcolor-smartthings-hdr/p/itm9a9bd9f205ac3?pid=TVSGRNGZ77Y3X2UH&lid=LSTTVSGRNGZ77Y3X2UHMOXPN3&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_24&otracker=search&otracker1=search&fm=organic&iid=440bb38f-1924-4015-b372-ca8d9c7ea4ae.TVSGRNGZ77Y3X2UH.SEARCH&ppt=hp&ppn=hp&ssid=xuaidix8g00000001763119995435&qH=57bfdcb037bdfc13
+          - /url: /samsung-crystal-vision-4k-ismart-163-cm-65-inch-ultra-hd-4k-led-smart-tizen-tv-iot-sensors-light-camera-voice-assistant-hub-purcolor-smartthings-hdr/p/itm9a9bd9f205ac3?pid=TVSGRNGZ77Y3X2UH&lid=LSTTVSGRNGZ77Y3X2UHMOXPN3&marketplace=FLIPKART&q=Samsung+TV&store=ckf%2Fczl&srno=s_1_24&otracker=search&otracker1=search&fm=organic&iid=8522790a-3a19-4ed6-b6c0-e6628d41a1e7.TVSGRNGZ77Y3X2UH.SEARCH&ppt=hp&ppn=homepage&ssid=dkwr3b850w0000001763214652194&qH=57bfdcb037bdfc13
           - generic [ref=e1478]:
             - img "Samsung Crystal Vision 4K iSmart 163 cm (65 inch) Ultra HD (4K) LED Smart Tizen TV with IOT Sensors fo..." [ref=e1482]
             - generic [ref=e1488]: Add to Compare
@@ -993,7 +993,7 @@
               - paragraph [ref=e1602]: Prakash Chand Nagar
               - img [ref=e1603]
               - paragraph [ref=e1607]: Certified Buyer
-              - paragraph [ref=e1608]: 3 days ago
+              - paragraph [ref=e1608]: 4 days ago
       - generic [ref=e1609]:
         - generic [ref=e1610]:
           - generic [ref=e1612]:
@@ -1042,12 +1042,12 @@
           - generic [ref=e1655]:
             - generic [ref=e1656]:
               - generic [ref=e1657]:
-                - text: "5"
+                - text: "4"
                 - img [ref=e1658]
-              - paragraph [ref=e1659]: Worth every penny
-            - generic [ref=e1663]: Good quality nice product iam happy
+              - paragraph [ref=e1659]: Value-for-money
+            - generic [ref=e1663]: Value for money product. It's little slow in terms of connectivity. Overall good, future buyers can go for the product.
             - generic [ref=e1665]:
-              - paragraph [ref=e1666]: Flipkart Customer
+              - paragraph [ref=e1666]: BARSHAN BHAKAT
               - img [ref=e1667]
               - paragraph [ref=e1671]: Certified Buyer
               - paragraph [ref=e1672]: 2 days ago
@@ -1104,7 +1104,7 @@
               - paragraph [ref=e1729]: A.Raj kumar
               - img [ref=e1730]
               - paragraph [ref=e1734]: Certified Buyer
-              - paragraph [ref=e1735]: 2 days ago
+              - paragraph [ref=e1735]: 3 days ago
       - generic [ref=e1736]:
         - generic [ref=e1737]:
           - generic [ref=e1739]:
@@ -1146,12 +1146,12 @@
           - generic [ref=e1781]:
             - generic [ref=e1782]:
               - generic [ref=e1783]:
-                - text: "5"
+                - text: "2"
                 - img [ref=e1784]
-              - paragraph [ref=e1785]: Super!
-            - generic [ref=e1789]: It is bestest product in flipkart
+              - paragraph [ref=e1785]: Moderate
+            - generic [ref=e1789]: Not happy with pictures quality.
             - generic [ref=e1791]:
-              - paragraph [ref=e1792]: Korada Sridhar
+              - paragraph [ref=e1792]: Satish Dasarapu
               - img [ref=e1793]
               - paragraph [ref=e1797]: Certified Buyer
               - paragraph [ref=e1798]: 3 days ago
@@ -1204,7 +1204,7 @@
               - paragraph [ref=e1855]: Sudheer Pasupuleti
               - img [ref=e1856]
               - paragraph [ref=e1860]: Certified Buyer
-              - paragraph [ref=e1861]: 1 day ago
+              - paragraph [ref=e1861]: 2 days ago
   - contentinfo [ref=e1862]:
     - generic [ref=e1864]:
       - generic [ref=e1865]:
