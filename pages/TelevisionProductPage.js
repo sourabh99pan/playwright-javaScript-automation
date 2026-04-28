@@ -5,7 +5,7 @@ class TelevisionProductPage {
     this.page = page;
 
     // Locators BEFORE clicking product (search results)
-    this.productTitles = page.locator('a:has(h3), a:has(div.KzDlHZ)');
+    this.productTitles = page.locator('a:has(div.RG5Slk)');
   }
 
   // ✔ switch tab + reinitialize all product page locators
@@ -23,10 +23,11 @@ class TelevisionProductPage {
     this.page = newPage;
 
     // ✔ RE-INITIALIZE LOCATORS for product page
-    this.addToCartBtn = this.page.getByRole('button', { name: /add to cart/i }).first();
-    this.buyNowBtn = this.page.getByRole('button', { name: /buy now/i });
-    this.productPrice = this.page.locator('div.Nx9bqj');
-    this.productRating = this.page.locator('div.XQDdHH');
+    //this.addToCartBtn = this.page.getByRole('button', { name: /add to cart/i }).first();
+    this.buyNowBtn = this.page.getByText('Buy now').first();
+    this.buyWithEmi = this.page.getByText('Buy with EMI').first();
+    this.productPrice = this.page.locator('text=/₹[0-9,]+/');
+    this.productRating = this.page.locator('text=/\\d\\.\\d/');
     this.productSpecs = this.page.locator('div._3Fm-hO');
   }
 
@@ -36,12 +37,13 @@ class TelevisionProductPage {
 
   // 👉 Verify if product name is displayed 
    async getProductName() { 
-      const title = await this.page.locator('span.VU-ZEz').textContent(); 
+      const title = await this.page.getByRole('heading', { level: 1 }).first().textContent();
       return title ? title.trim() : 'No title found';
     }
 
   async getProductRating() {
-    return (await this.productRating.first().textContent())?.trim() || 'No rating';
+    const ratingtext = await this.productRating.first().textContent();
+    return ratingtext?.trim() || 'No rating';
   }
 
   async getProductSpecs() {
@@ -52,10 +54,10 @@ class TelevisionProductPage {
   async verifyButtons() {
     await this.page.waitForLoadState('domcontentloaded');
 
-    const addToCartVisible = await this.addToCartBtn.isVisible();
+    const buyWithEmi = await this.buyWithEmi.isVisible();
     const buyNowVisible = await this.buyNowBtn.isVisible();
 
-    return { addToCartVisible, buyNowVisible };
+    return { buyWithEmi, buyNowVisible };
   }
 }
 

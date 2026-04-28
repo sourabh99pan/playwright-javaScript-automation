@@ -4,12 +4,12 @@ class HomePage {
   /** @param {import('@playwright/test').Page} page */
   constructor(page) {
     this.page = page;
-    this.closeLoginBtn = this.page.locator('button:has-text("✕"), button[aria-label="Close"]');
-    this.searchInput = this.page.locator('input[title="Search for Products, Brands and More"], input[name="q"]');
-    this.searchSubmit = this.page.locator('button[type="submit"]');
-    this.resultItems = this.page.locator('div._4rR01T, div.KzDlHZ, a:has(h3)'); // product cards
-    this.minPriceDropdown = this.page.getByRole('combobox').first();
-    this.maxPriceDropdown = this.page.getByRole('combobox').nth(1);
+    this.closeLoginBtn = page.getByRole('button',{name: '✕'});
+    this.searchInput = page.getByRole('textbox', { name: 'Search for Products, Brands' })
+    this.searchSubmit = page.locator('button[type="submit"]');
+    this.resultItems = page.locator('div._4rR01T, div.KzDlHZ, a:has(h3)'); // product cards
+    this.minPriceDropdown = page.getByRole('combobox').first();
+    this.maxPriceDropdown = page.getByRole('combobox').nth(1);
   }
 
   async goto() {
@@ -20,8 +20,12 @@ class HomePage {
 
   async dismissLoginPopupIfPresent() {
     // Flipkart’s login modal often appears on first visit
-    if (await this.closeLoginBtn.first().isVisible().catch(() => false)) {
-      await this.closeLoginBtn.first().click();
+    try{
+      await this.closeLoginBtn.waitFor({state:'visible',timeout:3000});
+      await this.closeLoginBtn.click();
+      console.log('Popup Closed');
+    }catch(e){
+      console.log('Popup not displayed');
     }
   }
 

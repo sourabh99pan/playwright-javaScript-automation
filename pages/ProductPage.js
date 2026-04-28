@@ -8,6 +8,7 @@ class ProductPage {
     this.productTitles = page.locator('a:has(h3), a:has(div.KzDlHZ)');
       this.addToCartBtn = this.page.getByRole('button', { name: /add to cart/i }).first();
     this.buyNowBtn = this.page.getByRole('button', { name: /buy now/i });
+    this.buyWithEmi = this.page.getByRole('button', { name: /Buy with EMI/i });
     this.productPrice = this.page.locator('div.Nx9bqj');
     this.productRating = this.page.locator('div.XQDdHH');
     this.productSpecs = this.page.locator('div._3Fm-hO');

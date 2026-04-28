@@ -12,6 +12,7 @@ test('Add product to cart and validate cart details', async ({ page }) => {
   // Step 1: Open Flipkart
   await home.goto();
   await home.dismissLoginPopupIfPresent();
+  //await page.pause();
 
   // Step 2: Search Product
   await home.search('Samsung TV');
@@ -40,4 +41,27 @@ test('Add product to cart and validate cart details', async ({ page }) => {
 
   expect(cartName).toContain(expectedName.substring(0, 10)); // fuzzy match
   expect(cartPrice).toBe(expectedPrice);
+});
+
+
+test('Add product to cart and validate cart details', async ({ page }) => {
+  const home = new HomePage(page);
+  const results = new SearchResultsPage(page);
+
+  // Step 1: Open Flipkart
+  await home.goto();
+  await home.dismissLoginPopupIfPresent();
+  //await page.pause();
+
+  // Step 2: Search Product
+  await home.search('Samsung TV');
+
+  // Step 3: Click on the first product 
+
+  const productPageInstance = await results.openFirstProduct();
+    const product = new ProductPage(productPageInstance);
+  const expectedName = await product.getProductName();
+  const expectedPrice = await product.getProductPrice();
+
+  
 });

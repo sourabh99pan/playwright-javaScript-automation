@@ -2,7 +2,7 @@
 class SearchResultsPage {
   constructor(page) {
     this.page = page;
-    this.productTitles = page.locator('div._4rR01T, div.KzDlHZ'); // Flipkart TV names
+    this.productTitles = page.locator('a:has(div.RG5Slk)');
   }
 
   async getProductNames() {
@@ -21,19 +21,35 @@ class SearchResultsPage {
     return newPage; // return new product detail page
   }
 
-   async openFirstProduct() {
-  await this.productTitles.first().click();
+  async openFirstProduct() {
+  const firstProduct = this.productTitles.first();
 
-  // Wait for new tab to open
-  const [newPage] = await Promise.all([
-    this.page.context().waitForEvent('page'),
-    //this.productTitles.first().click()
-  ]);
+  await firstProduct.waitFor();
 
-  await newPage.waitForLoadState();
+  const context = this.page.context();
+  const existingPages = context.pages();
 
-  return newPage; // ← return actual page object
-}
+  await firstProduct.click();
+
+  // wait a bit for navigation or new tab
+  await this.page.waitForTimeout(1000);
+
+  const allPages = context.pages();
+
+  let pageToUse;
+
+  if (allPages.length > existingPages.length) {
+    // new tab opened
+    pageToUse = allPages[allPages.length - 1];
+  } else {
+    // same tab navigation
+    pageToUse = this.page;
+  }
+
+  await pageToUse.waitForLoadState();
+
+  return pageToUse;
+  }
 
   async openProductByName(text) {
     await this.page.locator(`div._4rR01T:has-text("${text}")`).first().click();

@@ -22,7 +22,7 @@ module.exports = defineConfig({
 
   // ✅ Add reporters section for HTML reporting
   reporter: [
-    ['html', { outputFolder: 'playwright-report', open: 'never' }]
+    ['html', { outputFolder: 'playwright-report', open: 'always' }]
   ],
 
   // ✅ Optional: run cleanup automatically before tests
