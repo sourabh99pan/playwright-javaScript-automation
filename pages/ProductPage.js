@@ -53,7 +53,7 @@ class ProductPage {
 }
 
 
-  async getProductPrice() {
+  async  getProductPrice() {
     return (await this.productPrice.first().textContent())?.trim() || 'N/A';
   }
 

@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Playwright Reports
+playwright-report/
+test-results/
+
+# Logs
+logs/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

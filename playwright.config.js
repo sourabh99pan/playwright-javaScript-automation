@@ -8,7 +8,7 @@ module.exports = defineConfig({
   retries: 0,
 
   use: {
-    baseURL: 'https://www.flipkart.com',
+    baseURL: 'https://www.saucedemo.com?utm_source=chatgpt.com',
     headless: false,            // run headed while developing
     viewport: null,
     launchOptions: {

@@ -1,0 +1,14 @@
+{
+  "loginData": [
+    {
+      "username": "standard_user",
+      "password": "secret_sauce",
+      "expected": "Pass"
+    },
+    {
+      "username": "standard_user",
+      "password": "wrongpassword",
+      "expected": "Fail"
+    }
+  ]
+}
