@@ -3,6 +3,8 @@ const { test, expect } = require('@playwright/test');
 const LoginPage = require('../pages/LoginPage');
 const ProductsPage = require('../pages/ProductsPage');
 
+require('dotenv').config();
+
 test('Verify Product Count', async ({ page }) => {
 
     const loginPage = new LoginPage(page);
@@ -13,9 +15,12 @@ test('Verify Product Count', async ({ page }) => {
     await loginPage
         .navigateToApplication();
 
+        console.log("USERNAME:", process.env.USERNAME);
+        console.log("PASSWORD:", process.env.PASSWORD);
+
     await loginPage.login(
-        'standard_user',
-        'secret_sauce'
+        process.env.APP_USERNAME,
+        process.env.APP_PASSWORD
     );
 
     const count =
@@ -41,8 +46,8 @@ test('Add Product To Cart', async ({ page }) => {
         .navigateToApplication();
 
     await loginPage.login(
-        'standard_user',
-        'secret_sauce'
+        process.env.APP_USERNAME,
+        process.env.APP_PASSWORD
     );
 
     await productsPage.addProductToCart(
