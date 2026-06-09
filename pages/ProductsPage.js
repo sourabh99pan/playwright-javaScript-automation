@@ -13,6 +13,12 @@ class ProductsPage extends BasePage {
         this.cartBadge = '.shopping_cart_badge';
 
         this.cartIcon = '.shopping_cart_link';
+
+        this.productName = page.locator('.inventory_item_name');
+
+        this.productDesc = page.locator('.inventory_item_desc');
+
+        this.productPrice = page.locator('.inventory_item_price');
     }
 
     async verifyProductsPage() {
@@ -58,6 +64,33 @@ class ProductsPage extends BasePage {
             .locator(this.cartIcon)
             .click();
     }
+
+async getProductDetails(productName) {
+
+    const product = this.page
+        .locator('.inventory_item')
+        .filter({
+            has: this.page.locator(
+                '.inventory_item_name',
+                { hasText: productName }
+            )
+        });
+
+    return {
+        name: await product
+            .locator('[data-test="inventory-item-name"]')
+            .textContent(),
+
+        desc: await product
+            .locator('[data-test="inventory-item-desc"]')
+            .textContent(),
+
+        price: await product
+            .locator('[data-test="inventory-item-price"]')
+            .textContent()
+    };
+
+}
 }
 
 module.exports = ProductsPage;
