@@ -9,7 +9,7 @@ module.exports = defineConfig({
 
   use: {
     baseURL: 'https://www.saucedemo.com?utm_source=chatgpt.com',
-    headless: false,            // run headed while developing
+    headless: true,            // run headed while developing
     viewport: null,
     launchOptions: {
     args: ['--start-maximized']
