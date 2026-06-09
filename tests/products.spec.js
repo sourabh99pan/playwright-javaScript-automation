@@ -19,8 +19,8 @@ test('Verify Product Count', async ({ page }) => {
     await loginPage
         .navigateToApplication();
 
-        console.log("USERNAME:", process.env.USERNAME);
-        console.log("PASSWORD:", process.env.PASSWORD);
+        console.log("USERNAME:", process.env.APP_USERNAME);
+        console.log("PASSWORD:", process.env.APP_PASSWORD);
 
     await loginPage.login(
         process.env.APP_USERNAME,
