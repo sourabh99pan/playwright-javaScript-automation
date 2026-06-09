@@ -1,26 +1,28 @@
-// pages/CartPage.js
-class CartPage {
-  constructor(page) {
-    this.page = page;
+const BasePage = require('./BasePage');
 
-    // Cart item name (product title in cart)
-    this.cartItemName = page.locator('a.T2CNXf, a._2qUgWb, a.FKcPFB');
+class CartPage extends BasePage {
+
+    constructor(page) {
+
+        super(page);
+
+        this.productName = page.locator('.inventory_item_name');
+
+        this.productDesc = page.locator('.inventory_item_desc');
+
+        this.productPrice = page.locator('.inventory_item_price');
+    }
     
-    // Cart item price
-    this.cartItemPrice = page.locator('span.LAlF6k, div.Nx9bqj'); 
-  }
+async getCartProductDetails() {
 
-  async getCartItemName() {
-    await this.cartItemName.first().waitFor({ state: 'visible', timeout: 20000 });
-    const name = await this.cartItemName.first().textContent();
-    return name?.trim() || 'No name found';
-  }
+    await this.productName.first().waitFor();
 
-  async getCartItemPrice() {
-    await this.cartItemPrice.first().waitFor({ state: 'visible', timeout: 20000 });
-    const price = await this.cartItemPrice.nth(1).textContent();
-    return price?.trim() || 'N/A';
-  }
+    return {
+        name: await this.productName.first().textContent(),
+        desc: await this.productDesc.first().textContent(),
+        price: await this.productPrice.first().textContent()
+    };
+}
 }
 
-module.exports = { CartPage };
+module.exports = CartPage;
